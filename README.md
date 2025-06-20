@@ -1,6 +1,7 @@
 DevReview – Code Review Automation for Developers
 # Code-Review-System
 a python project with flask and devops for code review
+https://gyazo.com/e4f65fd7c89153d4d46c81089a999b74
 
 File Structure 
 
